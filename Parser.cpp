@@ -1,14 +1,14 @@
 /*****************************************************************************
 *                                                                            *
-*						|| COMPILER CONSTRUCTION ||                          *
-*																			 *
-*						*** TABLE DRIVEN PARSER ***						     *
-*																			 *
+*			|| COMPILER CONSTRUCTION ||                          *
+*									     *
+*			*** TABLE DRIVEN PARSER ***			     *
+*								             *
 *  NAME: Mudassar Ali                                                        *
 *  Roll: Bcsf15m045                                                          *
 *  Date: 02 - Jan - 2018                                                     *
-*  Assignment # 04															 *
-*																			 *
+*  Assignment # 04							     *
+* 									     *
 * ****************************************************************************/
 #include <iostream>
 #include <string>
