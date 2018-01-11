@@ -1,0 +1,6 @@
+int main()
+{
+	//pakistan
+	public int main = 45.525;
+
+}
